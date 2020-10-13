@@ -6,7 +6,6 @@ I work on the MERN stack to create beautiful, robust and minimalist web and mobi
 <!--
 **suryanshsugandhi/suryanshsugandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React Native apps for Android and iOS
 - 👯 I’m looking to collaborate on open-source React and React native packages. Drop me a line [here](mailto:suryansh71199@gmail.com) if you have any cool ideas.
