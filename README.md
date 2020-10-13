@@ -12,8 +12,11 @@ I work on the MERN stack to create beautiful, robust and minimalist web and mobi
 - ⚡ I have an appetite to learn new things every day. Arduous for writing clean, scalable, and beautiful code. I want to solve real-world challenges with ingenious technologies.
 
 Feel free to reach out if you're looking for a developer, have a question or just want to connect.
+
 [Website](https://suryansh.codes)
+
 [Mail](mailto:suryansh71199@gmail.com)
+
 [Linkedin](https://www.linkedin.com/in/suryanshsugandhi)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=suryanshsugandhi)
