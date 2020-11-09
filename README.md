@@ -10,7 +10,7 @@ I work on the MERN stack to create beautiful, robust and minimalist web and mobi
 -->
 
 - 🔭 I’m currently working on React Native apps for Android and iOS
-- 👯 I’m looking to collaborate on open-source React and React native packages. Drop me a line [here](mailto:suryansh71199@gmail.com) if you have any cool ideas.
+- 👯 I’m looking to collaborate on open-source React and React native packages. [Drop me a line](mailto:suryansh71199@gmail.com) if you have any cool ideas.
 - ⚡ I have an appetite to learn new things every day. Arduous for writing clean, scalable, and beautiful code. I want to solve real-world challenges with ingenious technologies.
 
 Feel free to reach out if you're looking for a developer, have a question or just want to connect.
