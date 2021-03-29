@@ -16,5 +16,5 @@ I work on the MERN stack to create beautiful, robust and minimalist web and mobi
 Feel free to reach out if you're looking for a developer, have a question or just want to connect.
 
 <a href="https://suryansh.codes" target="_blank">Website</a>
- &bull; <a href="mailto:suryansh71199@gmail.com" target="_blank">Mail</a>
+ &bull; <a href="mailto:contact@suryansh.dev" target="_blank">Mail</a>
  &bull; <a href="https://www.linkedin.com/in/suryanshsugandhi" target="_blank">Linkedin</a>
